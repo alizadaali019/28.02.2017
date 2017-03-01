@@ -1,0 +1,18 @@
+.all{
+	width: 800px;
+	height: 800px;
+	border:solid 1px darkgrey;
+	margin: 0 auto;
+}
+.white{
+	width: 100px;
+	height: 100px;
+	background: #824936;
+	float: left;
+}
+.black{
+	width: 100px;
+	height: 100px;
+	background: #EBB382;
+	float: left;
+}
